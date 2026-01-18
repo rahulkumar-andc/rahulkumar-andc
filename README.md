@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulkumar-andc&color=3776AB&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/rahulkumar-andc?style=flat-square&color=3776AB&label=Followers"/>
 </p>
 
 <p align="center">
@@ -15,6 +16,14 @@
 <p align="center">
   <b>BSc Physical Science (Electronics) · CS Minor · Delhi University</b><br>
   <i>Learn deeply. Build carefully. Break ethically. Secure responsibly.</i>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumar-andc&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </p>
 
 ---
@@ -33,10 +42,44 @@ I care more about **understanding systems deeply** than just "running tools".
 
 ---
 
+## 🎲 Fun Facts
+
+| | |
+|:---:|---|
+| 🌙 | Night owl — best code after midnight |
+| ☕ | Fueled by masala chai |
+| 🎮 | CTF enthusiast & puzzle solver |
+| 📍 | Delhi, India |
+| 🐧 | Linux power user (Arch BTW 😉) |
+| 🔐 | Breaking things to understand them |
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,django,flutter,html,css,linux,docker,git,bash&theme=dark"/>
+</p>
+
+---
+
+## 🛡️ Security Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Subfinder-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amass-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nuclei-7B42BC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge"/>
 </p>
 
 ---
@@ -75,6 +118,18 @@ I care more about **understanding systems deeply** than just "running tools".
 
 ---
 
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+🔧 Setting up WakaTime...
+```
+<!--END_SECTION:waka-->
+
+> 💡 *Stats will auto-update once WakaTime is configured*
+
+---
+
 ## 🚀 Selected Projects
 
 | Project | Description | Tech |
@@ -89,6 +144,19 @@ I care more about **understanding systems deeply** than just "running tools".
 
 ---
 
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/rahulkumar-andc/villen-music">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumar-andc&repo=villen-music&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/rahulkumar-andc/rahulkumar-andc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulkumar-andc&repo=rahulkumar-andc&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
 ## 🏆 Proof of Practice
 
 <p align="center">
@@ -96,6 +164,18 @@ I care more about **understanding systems deeply** than just "running tools".
     <img src="https://tryhackme-badges.s3.amazonaws.com/rqvillen.png" width="650"/>
   </a>
 </p>
+
+---
+
+## 🎖️ Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@villen">
+    <img src="https://holopin.me/villen" alt="Holopin Badges"/>
+  </a>
+</p>
+
+> 💡 *Earn badges by participating in events like Hacktoberfest!*
 
 ---
 
@@ -128,6 +208,14 @@ I care more about **understanding systems deeply** than just "running tools".
 
 ---
 
+## 🗺️ Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rahulkumar-andc/count.svg"/>
+</p>
+
+---
+
 ## 🌍 Connect With Me
 
 <p align="center">
@@ -146,11 +234,31 @@ I care more about **understanding systems deeply** than just "running tools".
   <a href="https://linkedin.com/in/rahulkumar-andc">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:villensec@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-handle">
+  <a href="https://twitter.com/villen_bhai_">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💖 Support My Work
+
+<p align="center">
+  <i>If you find my work helpful, consider supporting me!</i>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/villen">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  <a href="https://paypal.me/villen">
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+  <a href="https://upi.me/villen">
+    <img src="https://img.shields.io/badge/UPI-Support-6739B7?style=for-the-badge&logo=google-pay&logoColor=white"/>
   </a>
 </p>
 
