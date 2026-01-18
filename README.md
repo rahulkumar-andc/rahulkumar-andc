@@ -216,6 +216,24 @@ I care more about **understanding systems deeply** than just "running tools".
 
 ---
 
+## 📉 GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkumar-andc&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulkumar-andc&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumar-andc&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkumar-andc&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulkumar-andc&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+---
+
 ## 🌍 Connect With Me
 
 <p align="center">
@@ -253,13 +271,6 @@ I care more about **understanding systems deeply** than just "running tools".
 <p align="center">
   <a href="https://buymeacoffee.com/villen">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-  <a href="https://paypal.me/villen">
-    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-  </a>
-  <a href="https://upi.me/villen">
-    <img src="https://img.shields.io/badge/UPI-Support-6739B7?style=for-the-badge&logo=google-pay&logoColor=white"/>
-  </a>
 </p>
 
 ---
