@@ -5,6 +5,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulkumar-andc&color=3776AB&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/rahulkumar-andc" width="150" style="border-radius:50%" />
 </p>
 
@@ -17,7 +21,7 @@
 
 ## 🧠 Who Am I?
 
-I’m a **cybersecurity-focused developer** exploring the intersection of  
+I'm a **cybersecurity-focused developer** exploring the intersection of  
 **offensive security, automation, and real-world systems**.
 
 - 🐞 Actively learning **bug bounty & web exploitation**
@@ -25,34 +29,61 @@ I’m a **cybersecurity-focused developer** exploring the intersection of
 - 🐧 Linux-first workflow (custom tooling & scripts)
 - 📚 Preparing for **GATE CSE** with long-term research mindset
 
-I care more about **understanding systems deeply** than just “running tools”.
+I care more about **understanding systems deeply** than just "running tools".
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,django,flutter,html,css,linux,docker,git,bash&theme=dark"/>
+</p>
 
 ---
 
 ## 🧰 Core Skillset
 
 ### 💻 Development
-- Python • C++ • Django  
-- HTML • CSS • Flutter  
-- REST APIs • Automation
+| Languages | Frameworks | Tools |
+|-----------|------------|-------|
+| Python • C++ | Django • Flutter | REST APIs • Git |
+| HTML • CSS | Bootstrap | Automation Scripts |
 
 ### 🔐 Security
-- Linux (daily driver)
-- Burp Suite • Wireshark
-- Web security fundamentals
-- Recon & vulnerability analysis
-- Ethical exploitation mindset
+| Area | Tools & Skills |
+|------|---------------|
+| **Operating Systems** | Linux (daily driver), Kali, Parrot |
+| **Web Security** | Burp Suite, OWASP Top 10, XSS, SQLi |
+| **Network Analysis** | Wireshark, Nmap, Netcat |
+| **Recon & OSINT** | Subfinder, Amass, theHarvester |
+| **Methodology** | Ethical exploitation, Vulnerability analysis |
 
 ---
 
-## 🚀 Selected Work
+## 📖 Currently Learning
 
-| Project | What it Shows |
-|------|--------------|
-| 🎓 **Delhi Career Navigator** | Problem-solving with AI-assisted logic |
-| 🎵 **Villen Music** | End-to-end app thinking |
-| 🛡️ **DDoS Simulation** | Understanding attack mechanics (educational) |
-| 🌐 **villen.me** | Personal knowledge base & portfolio |
+<p align="center">
+  <img src="https://img.shields.io/badge/🔒_OWASP_Top_10-In_Progress-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_Bug_Bounty-Practicing-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📈_DSA_for_GATE-Preparing-green?style=for-the-badge"/>
+</p>
+
+- 🔒 **OWASP Top 10** & Web Application Security
+- 🎯 **Bug Bounty Methodology** & Real-world target hunting
+- 📈 **Data Structures & Algorithms** for GATE CSE
+- 🐳 **Docker & DevSecOps** workflows
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎓 [**Delhi Career Navigator**](https://github.com/rahulkumar-andc/delhi-career-navigator) | AI-assisted career guidance platform | Python, Django, AI |
+| 🎵 [**Villen Music**](https://github.com/rahulkumar-andc/villen-music) | End-to-end music streaming app | Flutter, Node.js |
+| 🛡️ **DDoS Simulation** | Understanding attack mechanics (educational) | Python, Networking |
+| 🌐 [**villen.me**](https://villen.me) | Personal knowledge base & portfolio | Web, Blog |
+| 🔧 **Bug Bounty Toolkit** | Automated recon & vulnerability scanning | Bash, Python |
 
 > ⚠️ All security-related work is **strictly educational and ethical**.
 
@@ -71,23 +102,68 @@ I care more about **understanding systems deeply** than just “running tools”
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar-andc&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar-andc&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar-andc&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar-andc&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar-andc&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumar-andc&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
 ---
 
-## 🌍 Connect
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulkumar-andc/rahulkumar-andc/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulkumar-andc/rahulkumar-andc/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rahulkumar-andc/rahulkumar-andc/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://github.com/rahulkumar-andc">
     <img src="https://img.shields.io/badge/GitHub-rahulkumar--andc-181717?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://villen.me">
+    <img src="https://img.shields.io/badge/Portfolio-villen.me-3776AB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://tryhackme.com/p/rqvillen">
-    <img src="https://img.shields.io/badge/TryHackMe-rqvillen-212C42?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/TryHackMe-rqvillen-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahulkumar-andc">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "The quieter you become, the more you can hear." — Ram Dass</i>
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3776AB&height=100&section=footer)
