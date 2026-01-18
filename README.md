@@ -1,12 +1,12 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3776AB&height=190&section=header&text=Rahul%20(aka%20Villen)&fontColor=ffffff&fontSize=42&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:00FF00&height=200&section=header&text=⚡%20VILLEN%20⚡&fontColor=00FF00&fontSize=55&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Researcher%20|%20Ethical%20Hacker&descAlignY=55&descSize=18&descColor=00FF00)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=3776AB&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Bug+Bounty+Learner;Full+Stack+Developer;Linux+Power+User" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;Cybersecurity+Researcher;Bug+Bounty+Hunter;Full+Stack+Developer;%24+sudo+hack_the_planet" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkumar-andc&color=3776AB&style=flat-square&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/rahulkumar-andc?style=flat-square&color=3776AB&label=Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=rahulkumar-andc&color=00FF00&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/rahulkumar-andc?style=flat-square&color=00FF00&label=Followers"/>
 </p>
 
 <p align="center">
@@ -282,7 +282,7 @@ I care more about **understanding systems deeply** than just "running tools".
 ---
 
 <p align="center">
-  <i>💡 "The quieter you become, the more you can hear." — Ram Dass</i>
+  <i>� "The quieter you become, the more you can hear." — Ram Dass</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3776AB&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:00FF00&height=100&section=footer)
