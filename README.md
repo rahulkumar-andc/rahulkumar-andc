@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:00FF00&height=200&section=header&text=⚡%20VILLEN%20⚡&fontColor=00FF00&fontSize=55&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Researcher%20|%20Ethical%20Hacker&descAlignY=55&descSize=18&descColor=00FF00)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=200&section=header&text=>>%20VILLEN_&fontColor=00FF00&fontSize=55&animation=blinking&fontAlignY=40&desc=root@kali:~%23%20whoami%20|%20Cybersecurity%20Researcher&descAlignY=65&descColor=00FF00&fontAlign=50)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;Cybersecurity+Researcher;Bug+Bounty+Hunter;Full+Stack+Developer;%24+sudo+hack_the_planet" />
