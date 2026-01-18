@@ -42,9 +42,7 @@
 ---
 
 ## 🏆 TryHackMe Profile
-<p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/4299168.png" alt="TryHackMe Badge"/>
-</p>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/4299168.png)](https://tryhackme.com/p/qrillen)
 
 ---
 
